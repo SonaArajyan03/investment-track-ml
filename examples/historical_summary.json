@@ -1,0 +1,26 @@
+{
+  "review_date": "2026-11-10",
+  "last_completed_session": "2026-11-09",
+  "horizons_sessions": [
+    4,
+    5,
+    20
+  ],
+  "symbols": 19,
+  "asset_horizon_pairs": 57,
+  "pairs_passing_research_gate": 0,
+  "pairs_with_insufficient_evidence": 57,
+  "split_boundary_checks": 228,
+  "all_training_label_ends_before_evaluation": true,
+  "versions": {
+    "numpy": "2.3.5",
+    "pandas": "3.1.1",
+    "scikit-learn": "1.9.1",
+    "xgboost": "3.4.1",
+    "yfinance": "1.8.0",
+    "pandas_market_calendars": "5.6.0"
+  },
+  "source_signals_sha256": "8277739e77fa5e926ce6baf70c356133b6647bd5d37efb228a8a41655b40af1e",
+  "provenance": "Summary of the original archived historical run, not a fresh run of the public edition.",
+  "interpretation": "No model-supported research candidate. This is not a trading-performance result."
+}

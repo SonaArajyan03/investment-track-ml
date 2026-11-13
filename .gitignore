@@ -1,0 +1,21 @@
+# Local research data and outputs
+outputs/
+*.zip
+*_executed.ipynb
+# Python and notebook state
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+# OS/editor files
+.DS_Store
+.vscode/
+.idea/
