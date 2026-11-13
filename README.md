@@ -4,7 +4,6 @@
 
 The notebook studies the direction of future ETF and stock returns, compares models with simple baselines, and exports the evidence behind its research flags. It supports a documented investment process: examine data quality, test a hypothesis, record model limitations, and apply independent investment judgment.
 
-**Historical finding:** in the archived November 10, 2026 run, none of the 57 asset/horizon combinations passed the declared research gate. The tool therefore provided no model-supported research candidate. This is a research finding, not a trading-performance result.
 
 ## What it does
 
